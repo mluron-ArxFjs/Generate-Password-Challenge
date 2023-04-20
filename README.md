@@ -16,7 +16,7 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 // WHEN the password is generated THEN the password is either displayed in an alert or written to the page.<br />
 
 ## Usage
-[](https://mluron-arxfjs.github.io/Generate-Password-Challenge/)
+-[Password-Generator](https://mluron-arxfjs.github.io/Generate-Password-Challenge/)
 1. Open the password generator URL.
 2. Generate a random password by clicking the "Generate Password" button and following the prompts and alerts.
 
