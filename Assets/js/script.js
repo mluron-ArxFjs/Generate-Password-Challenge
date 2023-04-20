@@ -64,10 +64,10 @@ function generatePassword() {
   }
   if (hasLowercase && !hasLowerCase(password)) {
     randomCharacter = Lower[randomIndex];
-  }
+  };
   if (hasUppercase && !hasUpperCase(password)) {
     randomCharacter = Upper[randomIndex];
-  }
+  };
   password = password + randomCharacter;
   return password;
 
